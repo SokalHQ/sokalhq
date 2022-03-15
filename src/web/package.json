@@ -1,0 +1,33 @@
+{
+  "name": "web",
+  "version": "0.1.0",
+  "description": "Web application",
+  "contributors": [
+    {
+      "name": "Feroz Ahmmed",
+      "email": "froghramar@gmail.com",
+      "url": "https://github.com/froghramar"
+    },
+    {
+      "name": "Rafiqul Islam",
+      "email": "rafikul351016@gmail.com",
+      "url": "https://github.com/rafiswe"
+    },
+    {
+      "name": "Hijikesh Hijal",
+      "email": "imh1j4l@gmail.com",
+      "url": "https://github.com/hijal"
+    }
+  ],
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Feroz Ahmmed",
+    "email": "froghramar@gmail.com",
+    "url": "https://github.com/froghramar"
+  },
+  "license": "GPL-3.0"
+}
